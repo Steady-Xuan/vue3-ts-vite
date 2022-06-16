@@ -1,0 +1,4 @@
+NODE_NEV="development"
+VITE_APP_TITLE="VUE3测试系统"
+VITE_APP_BASE_URL="www.baidu.com"
+VITE_APP_PORT=5000
